@@ -20,7 +20,7 @@ Projects involving **Artificial Intelligence, Machine Learning, Deep Learning, I
 - Full-stack web development (React.js, Node.js, Flask, Express.js)  
 - Cloud solutions (Azure, AWS basics)  
 - Data Science, Machine Learning, and AI-driven projects  
-- GPA/CGPA calculators & automation apps  
+
 
 ⚡ Fun fact:  
 I presented a **Sign Language Detection System using Deep Learning** at an International Conference (ICAICS 2025), showcasing real-time gesture recognition and emotion classification for assistive communication.
@@ -62,31 +62,6 @@ I presented a **Sign Language Detection System using Deep Learning** at an Inter
 🔹 **Face Emotion Detection** – CNN-powered deep learning model for emotion recognition.  
 🔹 **Face Sync AI** – Facial recognition authentication system with secure storage and event automation.  
 🔹 **Sign Language Detection System** – Real-time gesture and emotion recognition for assistive communication.  
-
----
-
-## 🎓 Education
-
-🎓 **B.Tech in Artificial Intelligence & Data Science** – SRM Valliammai Engineering College (2021–2025) | CGPA: 8.21  
-
----
-
-## 📜 Certifications
-
-- Python Developer – *CADD Infotech*  
-- R for Data Science – *Great Learning*  
-- Masterclass on AWS – *Pantech eLearning*  
-- Masterclass on Data Science – *Pantech eLearning*  
-- Masterclass on Machine Learning – *Pantech eLearning*  
-- C Programming & Assembly Language – *NPTEL*  
-
----
-
-## 🏅 Achievements
-
-- 🥉 3rd Prize in District-level Skating (2017)  
-- 🏆 State-level Champion in Silambam (2018)  
-- 🌍 Green Olympiad Winner (2018)  
 
 ---
 
