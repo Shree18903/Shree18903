@@ -12,12 +12,11 @@ I’m passionate about leveraging **AI, Data Science, Cloud Computing, and Full-
 - 🌱 Currently learning: **React Native, Flutter, Deep Learning architectures, Azure IAM & Cybersecurity**  
 - 🤝 Looking to collaborate on: **AI/ML, Deep Learning, Cloud-based Apps, React Native Mobile Development**  
 - 🙋‍♂️ Open to help with: **Optimizing ML/DL models, exploring AR/VR integrations, and scaling cloud applications**  
-- 💬 Ask me about: **Full-stack web development (React.js, Node.js, Flask, Express.js), AI/ML, Cloud (Azure & AWS basics), and Mobile App Development**  
+- 💬 Ask me about: **Full-stack web development (React.js, Node.js, Flask, Express.js, PHP), AI/ML, Cloud (Azure & AWS basics), and Mobile App Development**  
 
 ⚡ **Fun fact:** I presented a **Sign Language Detection System using Deep Learning** at the **5th International Conference on AI & Communication Systems (ICAICS 2025)**, showcasing gesture recognition and emotion classification for inclusive communication.
 
 ---
-
 
 ## 🛠 Tech Stack  
 
@@ -34,6 +33,7 @@ I’m passionate about leveraging **AI, Data Science, Cloud Computing, and Full-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄 Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +50,6 @@ I’m passionate about leveraging **AI, Data Science, Cloud Computing, and Full-
 
 ---
 
-
 ## ​ GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shree18903&show_icons=true&theme=radical)  
@@ -60,8 +59,8 @@ I’m passionate about leveraging **AI, Data Science, Cloud Computing, and Full-
 
 ## ​ Projects  
 
-🔹 **Gesture-Enabled Digital Pong Tennis** – Python & OpenCV-based game with real-time gesture control.  
-🔹 **Face Emotion Detection** – CNN-powered model for real-time facial emotion classification.  
+🔹 **Digital-Ping-Pong-Tennis-game** – Python & OpenCV-based game with real-time gesture control.  
+🔹 **Face-Emotion-and-Detection** – CNN-powered model for real-time facial emotion classification.  
 🔹 **Face Sync AI** – Real-time facial authentication with secure storage & email automation.  
 🔹 **Sign Language Detection System** – CNN-based real-time hand gesture & emotion recognition with AR/VR integration.  
 
